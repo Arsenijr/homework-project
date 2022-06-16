@@ -1,7 +1,7 @@
 print('Hello world')
 
 print('Задача 9. Аннуитетный платёж')
-
+'''
 def annual_payment(credit):
     summ_percent = credit * percent
     body_credit = annuity - summ_percent
@@ -45,3 +45,4 @@ for i in range(1, time + 1):
 
 print('\nОстаток долга:', credit - body_credit)
 print('\n=========================')
+'''
